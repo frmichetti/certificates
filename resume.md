@@ -3,7 +3,8 @@ São José dos Campos / São Paulo
 <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" />
 [![Visualizações](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgist.github.com%2Ffrmichetti%2F565bf971a2c5c621a34693b7463c2671&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visualizações&edge_flat=false)](https://hits.seeyoufarm.com)
 <details> 
-  
+<br />  
+
 LinkedIn: https://www.linkedin.com/in/frmichetti  
   
 GitHub: https://github.com/frmichetti  
@@ -91,6 +92,7 @@ FIEC/CEPIN - Centro de Educação Profissional de Indaiatuba - Janeiro 2007 - Ju
 
 | Curso                                                        | Certificadora  | Carga Horária | Ano     | 
 | ------------------------------------------------------------ |:-------------: |:-------------:| :------:|
+|[Curso Vue JS 2 - O Guia Completo (incl. Vue Router & Vuex)](https://www.udemy.com/certificate/UC-060a7978-8aab-4278-b4be-a22696aff910/)| Udemy| 43 horas | 2024 |
 | [ Criando API's com Node.js, GraphQL, JWT, Sequelize e TS](https://www.udemy.com/certificate/UC-3cf44473-3dc2-43d4-9cca-bdc480bcbb94/)  | Udemy          | 17 horas      | 2024    |
 | [Curso Completo do Desenvolvedor NodeJS e MongoDB](https://www.udemy.com/certificate/UC-973a42d1-ccf2-4e5e-800f-9091f4ccf5cc/)          | Udemy          | 15.5 horas   | 2024     |   
 | [Aprenda a Criar Especificações de APIs com Swagger e OpenAPI](https://www.udemy.com/certificate/UC-e7c17806-09c4-4842-9a31-84ab9761e873/) | Udemy          | 3.5 horas    | 2024     |
