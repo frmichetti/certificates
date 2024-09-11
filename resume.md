@@ -58,15 +58,20 @@ Manteve sistemas existentes, integrou com serviços de terceiros e implementou n
 ### Projetos Freelance em destaque
 
 **Novo Processo de Importação - NOVOPI.** _Janeiro/2022 - Junho/2024_ 
-- Desenvolvimento de Catálogo de Produtos consultando APIS do Serpro RFB.
-- Desenvolvimento de BOT para Automação de Clip de Mensagem Diário.
+- Desenvolvimento Backend NodeJs e Frontend VueJs de Catálogo de Produtos consultando APIS do Serpro RFB.
+[Demonstração de produto Final. Catálogo de Produtos Vuetify](https://youtu.be/HSparLRGF0A)
+- Desenvolvimento de BOT (Web Scraping) para Automação de Clip de Mensagem Diário.
+[Captura do HTML Crawler do Dou (Quinto dia)](https://youtu.be/ScXzAbuWBm8?si=AhDpWz7xaIACRrlh)
 
 **Jacitara - Zarin** _Maio/2022 - Dezembro/2022_
 - Desenvolvimento de Solução Chatbot de WhatsApp e Integraçao com TOTVS CRM das Empresas Jacitara e Zarin.
 - Responsável Pelo Desenvolvimento Backend com NodeJs.
+[Twilio Preview 2 - Chatbot para WhatsApp com Twilio](https://youtu.be/XFaVPbkYY-o)
 
 **Workix - Plataforma de Empregos Totalmente Grátis.** _Junho/2018 - Dezembro/2023_
-- Desenvolvimento Backend, Frontend e Mobile de Plataforma de Empregos.
+- Desenvolvimento Backend com **JAVA**, **Nodejs**, **Graphql**, Frontend com **VueJs** e Mobile Android Java Nativo da Plataforma de Empregos.
+[Workix Frontend](https://youtu.be/ogYem-N-xT0)
+
 
 **Startup Carhollics - Lavagem Automotiva Delivery.** _Junho/2016 - Janeiro/2017_ 
 - Desenvolvimento do Webserver de CallCenter em JAVA EE e Ruby on Rails para consumo com App Android
