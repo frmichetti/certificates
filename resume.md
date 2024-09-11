@@ -55,6 +55,24 @@ Manteve sistemas existentes, integrou com serviços de terceiros e implementou n
 
 **_Experiências Anteriores Omitidas (Infraestrutura TI) - Ver LinkedIn (2008-2015)_**
 
+### Projetos Freelance em destaque
+
+**Novo Processo de Importação - NOVOPI.** _Janeiro/2022 - Junho/2024_ 
+- Desenvolvimento de Catálogo de Produtos consultando APIS do Serpro RFB.
+- Desenvolvimento de BOT para Automação de Clip de Mensagem Diário.
+
+**Jacitara - Zarin** _Maio/2022 - Dezembro/2022_
+- Desenvolvimento de Solução Chatbot de WhatsApp e Integraçao com TOTVS CRM das Empresas Jacitara e Zarin.
+- Responsável Pelo Desenvolvimento Backend com NodeJs.
+
+**Workix - Plataforma de Empregos Totalmente Grátis.** _Junho/2018 - Dezembro/2023_
+- Desenvolvimento Backend, Frontend e Mobile de Plataforma de Empregos.
+
+**Startup Carhollics - Lavagem Automotiva Delivery.** _Junho/2016 - Janeiro/2017_ 
+- Desenvolvimento do Webserver de CallCenter em JAVA EE e Ruby on Rails para consumo com App Android
+
+
+
 ### Formação Acadêmica
 **Bacharelado em Administração de Empresas**
 
