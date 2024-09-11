@@ -2,17 +2,15 @@
 São José dos Campos / São Paulo  
 <img src="https://komarev.com/ghpvc/?username=frmichetti&color=red" alt="Visualizações" />
 [![Visualizações](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgist.github.com%2Ffrmichetti%2F565bf971a2c5c621a34693b7463c2671&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visualizações&edge_flat=false)](https://hits.seeyoufarm.com)
-<details> 
-<br />  
-
-LinkedIn: https://www.linkedin.com/in/frmichetti  
-  
-GitHub: https://github.com/frmichetti  
-  
-Email: frmichetti@gmail.com  
-  
+<details>   
+<br/>  
+Linkedin: https://www.linkedin.com/in/frmichetti 
+<br/>   
+GitHub: https://github.com/frmichetti 
+<br/>
+Email: frmichetti@gmail.com
+<br/>  
 WhatsApp: +55 12 99155-2277
-  
 </details> 
 
 ## Objetivo
@@ -43,11 +41,17 @@ Utilizou metodologias ágeis, incluindo **Kanban** e **Scrum**, para garantir um
 Atuou como desenvolvedor Full-Stack, utilizando **Ruby** e **Java** para desenvolvimento Backend e Java nativo para desenvolvimento de aplicativos móveis **Android**.
 Manteve sistemas existentes, integrou com serviços de terceiros e implementou novas funcionalidades para melhorar a funcionalidade e a experiência do usuário.
 
-**Car Hollics - Lavagem Automotiva Delivery (Startup)** _- Junho 2016 - Janeiro 2017_
-
-Atuou como desenvolvedor Full-Stack Freelancer, responsável por atualizar e hospedar o site baseado em **PHP**.
-Desenvolveu um servidor web para Call center baseado em **Java EE** e **Ruby on Rails** para otimizar as operações de atendimento ao cliente.
-Projetou e construiu um aplicativo Android MVP para proporcionar uma experiência móvel conveniente e amigável para os clientes.
+**Desenvolvedor de software Full Stack / Mobile Freelancer.** _Janeiro/2015 - Fevereiro/2017_
+* Conhecimento e Uso de **Orientação a Objetos**
+* Proficiência no desenvolvimento de códigos em **Java**, **PHP**, **Ruby** e **Android**
+* Prática com Frameworks MVC: **Java Server Faces**, **SPRING** e **Ruby on Rails**
+* Prática com Frameworks ORM: **Hibernate** e **Active Record**
+* Prática com Frameworks de Teste: **JUNIT**
+* Prática com Banco de Dados: **MySql** e **PostgreSQL**
+* Prática com Implantação e Consumo de WebServices **SOAP** / **RESTFUL**
+* Prática com Deploy nos Webservers **Tomcat** , **Glassfish** e **Wildfly**
+* Prática com Ferramentas de Build: **Maven** / **Gradle**
+* Versionamento: **GitHub**
 
 **_Experiências Anteriores Omitidas (Infraestrutura TI) - Ver LinkedIn (2008-2015)_**
 
